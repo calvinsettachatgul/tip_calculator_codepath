@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA74BE281E6BCA2E00877BA4 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA74BE271E6BCA2E00877BA4 /* SettingsViewController.swift */; };
 		BAAF90691E6696CD00E0FCAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAF90681E6696CD00E0FCAB /* AppDelegate.swift */; };
 		BAAF906B1E6696CD00E0FCAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAAF906A1E6696CD00E0FCAB /* ViewController.swift */; };
 		BAAF906E1E6696CD00E0FCAB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAAF906C1E6696CD00E0FCAB /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA74BE271E6BCA2E00877BA4 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		BAAF90651E6696CD00E0FCAB /* tippy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tippy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAAF90681E6696CD00E0FCAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAAF906A1E6696CD00E0FCAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				BAAF90681E6696CD00E0FCAB /* AppDelegate.swift */,
 				BAAF906A1E6696CD00E0FCAB /* ViewController.swift */,
 				BAAF906C1E6696CD00E0FCAB /* Main.storyboard */,
+				BA74BE271E6BCA2E00877BA4 /* SettingsViewController.swift */,
 				BAAF906F1E6696CD00E0FCAB /* Assets.xcassets */,
 				BAAF90711E6696CD00E0FCAB /* LaunchScreen.storyboard */,
 				BAAF90741E6696CD00E0FCAB /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				BAAF906B1E6696CD00E0FCAB /* ViewController.swift in Sources */,
 				BAAF90691E6696CD00E0FCAB /* AppDelegate.swift in Sources */,
+				BA74BE281E6BCA2E00877BA4 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +306,7 @@
 				BAAF90791E6696CD00E0FCAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

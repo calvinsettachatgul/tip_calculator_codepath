@@ -93,7 +93,7 @@
                     <navigationItem key="navigationItem" title="Tip Calculator" id="JWl-Rx-Uur">
                         <barButtonItem key="rightBarButtonItem" title="Settings" id="8LA-FJ-fsR">
                             <connections>
-                                <segue destination="vxf-Vv-uOG" kind="show" id="iSk-X7-tcD"/>
+                                <segue destination="vxf-Vv-uOG" kind="show" id="wWM-2j-7Cp"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
